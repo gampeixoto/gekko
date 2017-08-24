@@ -21,6 +21,7 @@
     "bitfinex-api-node": "0.2.9",
     "bitstamp": "^1.0.3",
     "bitx": "^1.5.0",
+    "blinktrade": "0.0.9",
     "btc-china-fork": "0.0.6",
     "btc-e": "^1.0.5",
     "btc-markets": "0.0.6",
